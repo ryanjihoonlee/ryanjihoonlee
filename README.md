@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Linear Regression on Facebook Post Metrics Project**
 
-- 🌱 I’m currently learning **R, SQL, Python, and Tableau**
+- 🌱 I’m currently learning **SQL, Python, R, Tableau, and Power BI**
 
-- 💬 Ask me about **R, SQL, and Tableau**
+- 💬 Ask me about **SQL, Python, R Tableau, and Power BI**
 
 - 📫 How to reach me **jihoonlee0917@gmail.com**
 

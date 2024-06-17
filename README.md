@@ -2,7 +2,7 @@
 <h3 align="center">Hi, nice to meet you! I am an undergraduate senior at Boston University pursuing a BA degree in Mathematics, with a Specialty in Statistics. I am currently passionate about data analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Linear Regression on Facebook Post Metrics Project**
+- 🔭 I’m currently working on **Uber Data Analysis Project with R**
 
 - 🌱 I’m currently learning **SQL, Python, R, Tableau, and Power BI**
 

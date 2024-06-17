@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Uber Data Analysis Project with R**
 
-- 🌱 I’m currently learning **SQL, Python, R, Tableau, and Power BI**
+- 🌱 I’m currently learning **SQL, R, Python, Tableau, Power BI, and Microsoft Excel**
 
-- 💬 Ask me about **SQL, Python, R Tableau, and Power BI**
+- 💬 Ask me about **SQL, R, Python, Tableau, Power BI, and Microsoft Excel**
 
 - 📫 How to reach me **jihoonlee0917@gmail.com**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ji Hoon (Ryan) Lee</h1>
 <h3 align="center">Hi, nice to meet you! My name is Ji Hoon Lee, and I am a recent graduate from Boston University with a degree in Mathematics, with Specialty in Statistics. I am currently passionate about data analytics.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif"/>
 
 - 🔭 I’m currently working on **Uber Data Analysis Project with R**
 

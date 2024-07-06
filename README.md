@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Avocado Analysis in SQL**
 
-- 🌱 I’m currently learning **SQL, R, Python, Tableau, Power BI, and Microsoft Excel**
+- 🌱 I’m currently learning **SQL, R, MS Power BI, MS Excel, Python, and Tableau**
 
-- 💬 Ask me about **SQL, R, Python, Tableau, Power BI, and Microsoft Excel**
+- 💬 Ask me about **SQL, R, MS Power BI, MS Excel, Python, and Tableau**
 
 - 📫 How to reach me **jihoonlee0917@gmail.com**
 
